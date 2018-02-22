@@ -1,0 +1,7 @@
+.page-sidebar .page-sidebar-menu>li>a{
+		font-size: 20px;
+}
+
+.page-sidebar .page-sidebar-menu>li.active.open>a>i, .page-sidebar .page-sidebar-menu>li.active>a>i, .page-sidebar-closed.page-sidebar-fixed .page-sidebar:hover .page-sidebar-menu>li.active.open>a>i, .page-sidebar-closed.page-sidebar-fixed .page-sidebar:hover .page-sidebar-menu>li.active>a>i{
+    color: #a8002d;
+}
